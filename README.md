@@ -1,7 +1,9 @@
 # Experiment-08- Encoders-and-decoders 
 ### AIM: To implement 8 to 3 Encoder and  3to8 Decoder using verilog and validate its outputs
-### HARDWARE REQUIRED:  – PC, Cyclone II , USB flasher
-### SOFTWARE REQUIRED:   Quartus prime
+### HARDWARE REQUIRED:  
+# PC, Cyclone II , USB flasher
+### SOFTWARE REQUIRED: 
+# Quartus prime
 ### THEORY 
 
 ## Encoders
@@ -95,15 +97,17 @@ and(y7,a0,a1,a2);
 endmodule
 ```
 ## RTL LOGIC
-i.)For Encoder:
+## i.)For Encoder:
 ![image](https://github.com/Revathi-Dayalan/Experiment-08-Encoders-and-decoders-/assets/96000574/d5261ca8-5849-43b2-8b1f-e00578b7845c)
 
 
-ii.)For Decoder:
+## ii.)For Decoder:
 ![image](https://github.com/Revathi-Dayalan/Experiment-08-Encoders-and-decoders-/assets/96000574/25997a60-116b-4e14-90fe-25a3f4bccdda)
 
 
 ### TIMING DIGRAMS
+
+
 # i.)For Encoder:
 ![image](https://github.com/Revathi-Dayalan/Experiment-08-Encoders-and-decoders-/assets/96000574/88fc6a23-10b0-4f31-9489-d9c78d5722b1)
 
@@ -113,6 +117,7 @@ ii.)For Decoder:
 
 
 ### TRUTH TABLE
+
 # i.)For Encoder:
 ![image](https://github.com/Revathi-Dayalan/Experiment-08-Encoders-and-decoders-/assets/96000574/9246ede2-c2b9-4804-ab02-b9b95634f582)
 

@@ -7,7 +7,7 @@
 ## Encoders
 Binary code of N digits can be used to store 2N distinct elements of coded information. This is what encoders and decoders are used for. Encoders convert 2N lines of input into a code of N bits and Decoders decode the N bits into 2N lines.
 
-1. Encoders –
+## 1. Encoders –
 An encoder is a combinational circuit that converts binary information in the form of a 2N input lines into N output lines, which represent N bit code for the input. For simple encoders, it is assumed that only one input line is active at a time.
 
 As an example, let’s consider Octal to Binary encoder. As shown in the following figure, an octal-to-binary encoder takes 8 input lines and generates 3 output lines.
@@ -103,23 +103,24 @@ ii.)For Decoder:
 ![image](https://github.com/Revathi-Dayalan/Experiment-08-Encoders-and-decoders-/assets/96000574/25997a60-116b-4e14-90fe-25a3f4bccdda)
 
 
-TIMING DIGRAMS
-i.)For Encoder:
+### TIMING DIGRAMS
+# i.)For Encoder:
 ![image](https://github.com/Revathi-Dayalan/Experiment-08-Encoders-and-decoders-/assets/96000574/88fc6a23-10b0-4f31-9489-d9c78d5722b1)
 
 
-ii.)For Decoder:
+# ii.)For Decoder:
+![image](https://github.com/Revathi-Dayalan/Experiment-08-Encoders-and-decoders-/assets/96000574/7bd31401-09f9-40d2-af94-d3f8b15d9184)
 
 
-TRUTH TABLE
-i.)For Encoder:
+### TRUTH TABLE
+# i.)For Encoder:
 ![image](https://github.com/Revathi-Dayalan/Experiment-08-Encoders-and-decoders-/assets/96000574/9246ede2-c2b9-4804-ab02-b9b95634f582)
 
 
-ii.)For Decoder:
+# ii.)For Decoder:
 ![image](https://github.com/Revathi-Dayalan/Experiment-08-Encoders-and-decoders-/assets/96000574/94bd2204-c900-447d-ae62-db1541595761)
 
 
-RESULTS
+## RESULTS
 Thus the program to design encoder and decoder is successfully completed.
 
